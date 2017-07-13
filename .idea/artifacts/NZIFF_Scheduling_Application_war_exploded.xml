@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NZIFF_Scheduling_Application:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NZIFF_Scheduling_Application_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NZIFF_Scheduling_Application/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NZIFF_Scheduling_Application" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
